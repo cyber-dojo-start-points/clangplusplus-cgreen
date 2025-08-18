@@ -1,6 +1,6 @@
 {
-  "image_name": "cyberdojofoundation/clangpp_cgreen:869637a",
-  "display_name": "C++ (clang++), Cgreen",
+  "image_name": "ghcr.io/cyber-dojo-languages/clangpp_cgreen:ce37ab0",
+  "display_name": "C++ (clang++ 14.0.0), Cgreen",
   "visible_filenames": [
     "Hiker.cpp",
     "Hiker.hpp",
