@@ -1,4 +1,4 @@
-[![Github Action (master)](https://github.com/cyber-dojo-languages/clangplusplus-cgreen/actions/workflows/main.yml/badge.svg)](https://github.com/cyber-dojo-languages/clangplusplus-cgreen/actions)
+[![Github Action (master)](https://github.com/cyber-dojo-start-points/clangplusplus-cgreen/actions/workflows/main.yml/badge.svg)](https://github.com/cyber-dojo-start-points/clangplusplus-cgreen/actions)
 
 ### display_name="C++ (clang++ 18.1.3), Cgreen 1.6.3"
 ### image_name="[ghcr.io/cyber-dojo-languages/clangpp_cgreen](https://github.com/cyber-dojo-languages/clangplusplus-cgreen/pkgs/container/clangplusplus_cgreen)"
