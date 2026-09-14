@@ -1,0 +1,8 @@
+{
+  "truncated": true,
+  "matches": [ "^debug: i is 0, total is 0$" ],
+  "match_counts": {
+    "^Running \"HikerTests\" \\(1 test\\)\\.\\.\\.$": 1,
+    "^Completed ": 0
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "max_output_lines": 20,
+  "matches": [ "^Hiker\\.cpp:4:5: error: use of undeclared identifier 'retrun'" ],
+  "match_counts": {
+    "^Completed ": 0
+  }
+}

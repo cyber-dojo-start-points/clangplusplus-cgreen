@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 20,
+  "matches": [ "^answer was called$" ],
+  "match_counts": {
+    "^Completed \"HikerTests\": 1 pass in [0-9]+ms\\.$": 1,
+    "Failure:": 0,
+    "Exception:": 0
+  }
+}

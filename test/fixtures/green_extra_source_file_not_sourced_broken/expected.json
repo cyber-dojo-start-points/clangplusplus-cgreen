@@ -1,0 +1,8 @@
+{
+  "max_output_lines": 20,
+  "match_counts": {
+    "^Completed \"HikerTests\": 1 pass in [0-9]+ms\\.$": 1,
+    "Checksum": 0,
+    "error:": 0
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^Running \"HikerTests\" \\(2 tests\\)\\.\\.\\.$": 1,
+    "^HikerTests\\.cpp:[0-9]+: Exception: Hiker -> ": 2,
+    "^\tTest terminated with signal: Segmentation fault": 2,
+    "^Completed \"HikerTests\": 2 exceptions in [0-9]+ms\\.$": 1,
+    "Failure:": 0
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "max_output_lines": 10,
+  "matches": [ "^make: \\*\\*\\* No rule to make target 'HikerTests\\.o', needed by 'HikerTests\\.so'\\." ],
+  "match_counts": {
+    "^Completed ": 0,
+    "FizzBuzz": 0
+  }
+}

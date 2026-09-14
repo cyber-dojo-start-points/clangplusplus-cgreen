@@ -1,0 +1,8 @@
+{
+  "max_output_lines": 20,
+  "match_counts": {
+    "^Running \"HikerTests\" \\(1 test\\)\\.\\.\\.$": 1,
+    "^Completed \"HikerTests\": 1 pass in [0-9]+ms\\.$": 1,
+    "answers_three_digits": 0
+  }
+}

@@ -1,0 +1,9 @@
+/* The extension was left off and nothing #includes this file, so neither
+   the Makefile nor cgreen-runner ever reaches it. The assertion is one that
+   would fail, so a green run says it really was not built rather than that
+   it was built and passed. */
+
+Ensure(Hiker, answers_three_digits) {
+    Hiker hiker;
+    assert_that(hiker.answer() > 99, is_true);
+}

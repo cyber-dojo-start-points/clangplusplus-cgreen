@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^Running \"HikerTests\" \\(1 test\\)\\.\\.\\.$": 1,
+    "^HikerTests\\.cpp:[0-9]+: Failure: Hiker -> answers_42": 1,
+    "^Completed \"HikerTests\": 1 failure in [0-9]+ms\\.$": 1,
+    "pass": 0
+  }
+}
