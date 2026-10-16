@@ -1,13 +1,13 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/clangpp_cgreen:966a0a0",
-  "display_name": "C++ (clang++ 18.1), Cgreen 1.6",
+  "image_name": "ghcr.io/cyber-dojo-languages/clangpp_cgreen:070c8ba@sha256:101133d757b05432c45ef8d1328d363ad8021f4a996121a1a14b640bbce0a2a8",
+  "display_name": "C++ (clang++ 23.1.4), Cgreen 1.7.0",
   "language": [
     "C++ (clang++)",
-    "18.1"
+    "23.1.4"
   ],
   "test_framework": [
     "Cgreen",
-    "1.6"
+    "1.7.0"
   ],
   "visible_filenames": [
     "Hiker.cpp",
